@@ -5,6 +5,18 @@
     <color name="backgroundopacity">#7A5A5858</color>
     <color name="backgroundopacitya">#AB363535</color>
     <color name="endcolorgradient">#e8a564</color>
+    <color name="endcolorgradientablue">#8165E2</color>
     <color name="endcolorgradienta">#8165E2</color>
-    <color name="startcolorgradient">#7B65D6</color>
+
+    <color name="startcolorgradientblue">#7B65D6</color>
+    <color name="startcolorgradient">#443c20</color>
+
+    <color name="fbcolor">#1877F2</color>
+    <color name="googlecolorblue">#4285F4</color>
+    <color name="googlecolorgreen">#34A853</color>
+    <color name="googlecoloryellow">#FBBC05</color>
+    <color name="googlecolorred">#EA4335</color>
+    <color name="tintlogocolor">#Ac7a4a</color>
+
+
 </resources>
