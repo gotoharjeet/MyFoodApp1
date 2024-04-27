@@ -169,7 +169,7 @@
                     android:layout_marginBottom="16dp"
                     android:layout_weight="1"
                     android:background="@drawable/fbbackground"
-                    android:drawableLeft="@drawable/facebooknew"
+                    android:drawableLeft="@drawable/facebook"
                     android:gravity="center"
                     android:padding="10dp"
                     android:text="Facebook"
